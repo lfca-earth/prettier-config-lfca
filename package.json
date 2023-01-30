@@ -1,0 +1,11 @@
+{
+  "name": "prettier-config-lfca",
+  "private": true,
+  "repository": "git@github.com:lfca-earth/prettier-config.git",
+  "version": "1.0.0",
+  "main": "index.json",
+  "dependencies": {},
+  "peerDependencies": {
+    "prettier": ">= 2"
+  }
+}
