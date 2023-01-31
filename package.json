@@ -1,5 +1,5 @@
 {
-  "name": "prettier-config-lfca",
+  "name": "@lfca/prettier-config",
   "private": true,
   "repository": "git@github.com:lfca-earth/prettier-config.git",
   "version": "1.0.0",
